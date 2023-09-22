@@ -1,9 +1,9 @@
-
+<<<<<<< HEAD
 import java.time.*;
-
+=======
 
 import java.time.*;//user1 modified
-
+>>>>>>> ad554236b5e236a248df64aa998ac1abbaf2bc38
 
 class customer{
 private long customerId;
