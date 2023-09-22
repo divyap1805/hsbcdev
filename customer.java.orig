@@ -1,11 +1,11 @@
-
+<<<<<<< HEAD
 //author user1
-
+=======
 //author user2
 import java.time.*;
 
 
-
+>>>>>>> f79cd23429e887467ca25f6a7629a46391b199dc
 import java.time.*;//user1 modified
 
 
